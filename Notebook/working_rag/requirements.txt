@@ -6,3 +6,5 @@ pypdf
 python-dotenv
 google-genai
 sentence-transformers
+torch
+torchvision
