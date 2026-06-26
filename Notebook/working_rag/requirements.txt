@@ -8,3 +8,4 @@ google-genai
 sentence-transformers
 torch
 torchvision
+numpy<2
